@@ -1,5 +1,6 @@
-# Laboratorium 1, Zaawansowane języki programowania
-# Język: Ruby
+= Laboratorium 1, Zaawansowane języki programowania =
+== Język: Ruby ==
+
 [width="50%"]
 |=======
 |1. |Cloc
