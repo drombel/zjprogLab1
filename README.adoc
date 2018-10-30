@@ -10,3 +10,10 @@
 |4. |Breaking Up the Behemoth
 |5. |RuboCop
 |=======
+
+
+https://github.com/drombel/zjprogLab1/blob/master/flog%20details.txt[*Flog details*]
+
+https://github.com/drombel/zjprogLab1/blob/master/robocup%20details.txt[*Robocup details*]
+
+https://github.com/drombel/zjprogLab1/blob/master/reek%20details.txt[*Reek details*]
