@@ -1,0 +1,19 @@
+Offenses:
+
+verse.rb:19:1: C: Metrics/AbcSize: Assignment Branch Condition size for merge is too high. [29.63/15]
+def merge(arr, middle, left, right) ...
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+verse.rb:19:1: C: Metrics/MethodLength: Method has too many lines. [24/10]
+def merge(arr, middle, left, right) ...
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+verse.rb:20:18: C: Style/RedundantParentheses: Don't use parentheses around a variable.
+  left_arr = arr[(left)..(middle)] # 1.3 + 0.9
+                 ^^^^^^
+verse.rb:20:26: C: Style/RedundantParentheses: Don't use parentheses around a variable.
+  left_arr = arr[(left)..(middle)] # 1.3 + 0.9
+                         ^^^^^^^^
+verse.rb:21:33: C: Style/RedundantParentheses: Don't use parentheses around a variable.
+  right_arr = arr[(middle + 1)..(right)] # 1.3 + 1.3 + 0.9 + 0.3
+                                ^^^^^^^
+
+1 file inspected, 5 offenses detected
